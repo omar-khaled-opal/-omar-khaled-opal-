@@ -28,4 +28,5 @@ Welcome to my GitHub profile! I'm OPAL, From Egypt, Passionate about AI and mach
 
 ## Leetcode status 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/i3AMORY?theme=dark&font=Ledger)
-Thanks for visiting! 🚀
+
+##Thanks for visiting! 🚀
